@@ -3,10 +3,10 @@ const divide = function (){
 }
 
 const square = (parameter) => parameter * parameter;
-square(parameter, parameter);
+
 
 const add = (a, b) => {
-    a + b
-   };
+   return a + b
+   }
 
-add (3,4);
+add (a,b);
